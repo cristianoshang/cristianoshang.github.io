@@ -28,8 +28,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+![picture](https://github.com/cristianoshang/-/blob/master/photo1.jpg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### I'm looking for a PhD position in BLOCKCHAIN
 
