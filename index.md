@@ -1,3 +1,4 @@
+![picture](https://github.com/cristianoshang/-/blob/master/20210916003651.png)
 # Xingyu Shang
 
 Postgraduate
@@ -28,8 +29,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![picture](https://github.com/cristianoshang/-/blob/master/photo1.jpg)
-
 
 ### I'm looking for a PhD position in BLOCKCHAIN
 
