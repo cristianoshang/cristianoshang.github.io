@@ -1,25 +1,28 @@
-## Welcome to GitHub Pages
+# Xingyu Shang
 
-You can use the [editor on GitHub](https://github.com/cristianoshang/cristianoshang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Postgraduate
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+North China Electric Power University
 
-### Markdown
+Wechat:shang1978464937
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+link to Twitter;link to Linkedin;link to github
+
+## About me
+
+I am Xingyu, a third-year MS student from North China Electric Power University(NCEPU). I received my B.S. degree from Hebei Finance University in 2015. 
+
+My research interests lie in security, privacy and scalability of blockchain. I have some experience with permissioned blockchain. One of my research projects is the privacy preserving of consortium blockchain.
+
+### Interests
+
+* Security & privacy
+* Blockchain
+* Distributed System
+* Cryptography
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
@@ -27,6 +30,10 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### I'm looking for a PhD position in BLOCKCHAIN
+
+I'm interested in any aspect of blockchain: security & privacy, consensus, scalability and so on.
 
 ### Jekyll Themes
 
