@@ -1,5 +1,4 @@
-![picture](https://github.com/cristianoshang/-/blob/master/20210916003651.png)
-# Xingyu Shang
+# Xingyu Shang![picture](https://github.com/cristianoshang/-/blob/master/1.jpg)
 
 Postgraduate
 
