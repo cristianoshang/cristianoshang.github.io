@@ -35,9 +35,8 @@ I'm interested in any aspect of blockchain: security & privacy, consensus, scala
 
 ### Paper
 
-[1] Xingyu Shang, Rong Huang, Yuancheng Li．A  Charging and Discharging Model for Electric Vehicles based on Consortium Blockchain using Multi-Objective Gray wolf Algorithm[J]．Recent Advances in Electrical & Electronic Engineering
+[1] Xingyu Shang, Rong Huang, Yuancheng Li．A  Charging and Discharging Model for Electric Vehicles based on Consortium Blockchain using Multi-Objective Gray wolf Algorithm[J]．Recent Advances in Electrical & Electronic Engineering，Accepted /n
 [2] 胡柏吉，李元诚，房方，商兴宇．基于轻量级区块链的隐私保护传染病监测数据聚合[J]．中国科学: 信息科学，2021，51 （11）: 1885–1899
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cristianoshang/cristianoshang.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
