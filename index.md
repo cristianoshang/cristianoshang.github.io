@@ -29,9 +29,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-### I'm looking for a PhD position in BLOCKCHAIN
+###  Job
 
-I'm interested in any aspect of blockchain: security & privacy, consensus, scalability and so on.
+2022.07 I'm hired by China Telecom Research Instittute.
 
 ### Paper
 
