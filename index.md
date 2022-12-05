@@ -6,7 +6,7 @@ China Telecom Research Instittute
 
 Wechat: shang1978464937
 
-email:shangxy1 @ chinatelecom dot cn
+email:shangxy1@chinatelecom.cn
 
 link to Twitter;link to Linkedin;link to github
 
