@@ -8,7 +8,7 @@ Wechat: shang1978464937
 
 email:shangxy1@chinatelecom.cn
 
-link to Twitter;link to Linkedin;link to github
+link to [X(Twitter)](https://x.com/shangxingyu1?s=21&t=YAls2cLIwpT--ou8_wYO2w) ;link to Linkedin;link to Github
 
 ## About me
 
@@ -28,8 +28,13 @@ Now I'm working in China Telecom Research Instittute which is located in Beijing
 
 ### Paper
 
-[1] Shang Xingyu, Li Yuancheng*, Huang Rong, A Charging and Discharging Model for Electric Vehicles based on Consortium Blockchain Using Multi-Objective Gray Wolf Algorithm, Recent Advances in Electrical & Electronic Engineering 2022; 15(8) . 
+[1] **Shang Xingyu**, Li Yuancheng*, Huang Rong, A Charging and Discharging Model for Electric Vehicles based on Consortium Blockchain Using Multi-Objective Gray Wolf Algorithm, Recent Advances in Electrical & Electronic Engineering 2022; 15(8) . 
 
-[2] 胡柏吉，李元诚，房方，商兴宇．基于轻量级区块链的隐私保护传染病监测数据聚合[J]．中国科学: 信息科学，2021，51 （11）: 1885–1899
+[2] 胡柏吉，李元诚，房方，**商兴宇**．基于轻量级区块链的隐私保护传染病监测数据聚合[J]．中国科学: 信息科学，2021，51 （11）: 1885–1899
 
 
+### Standard
+
+[1] ITU-T Q2/SG13 Technical Report: TR.SIC-DLT "Scenarios and considerations of semantic information communication of NGNe based on DLT" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19158), 11/2023, ongoing
+
+[2] ITU-T Q16/SG13 Technical Report: TR.CDI-TNS "Considerations and potential requirements of cross domain interoperability for trustworthy networking and services" [Link], 03/2024, ongoing
