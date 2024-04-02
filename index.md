@@ -37,4 +37,8 @@ Now I'm working in China Telecom Research Instittute which is located in Beijing
 
 [1] ITU-T Q2/SG13 Technical Report: TR.SIC-DLT "Scenarios and considerations of semantic information communication of NGNe based on DLT" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19158), 11/2023, ongoing
 
-[2] ITU-T Q16/SG13 Technical Report: TR.CDI-TNS "Considerations and potential requirements of cross domain interoperability for trustworthy networking and services" [Link], 03/2024, ongoing
+[2] ITU-T Q16/SG13 Technical Report: TR.CDI-TNS "Considerations and potential requirements of cross domain interoperability for trustworthy networking and services" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19388), 03/2024, ongoing
+
+[3] ITU-T Q16/SG13 Recommendation: Y.Trust-AI "Overview of trust provisioning for networks and services using AI technologies" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19395), 03/2024, ongoing
+
+[4] ITU-T Q20/SG13 Recommendation: Y.KNO "Requirements and framework for knowledge-based network optimization in IMT-2020 networks and beyond" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19360), 03/2024, ongoing
