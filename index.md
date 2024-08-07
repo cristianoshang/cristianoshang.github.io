@@ -8,6 +8,8 @@ Wechat: shang1978464937
 
 email:shangxy1@chinatelecom.cn
 
+ORCID: https://orcid.org/0000-0001-6603-0497  
+
 link to [X(Twitter)](https://x.com/shangxingyu1?s=21&t=YAls2cLIwpT--ou8_wYO2w) ;link to Linkedin;link to Github
 
 ## About me
@@ -20,7 +22,7 @@ Now I'm working in China Telecom Research Instittute which is located in Beijing
 
 ### Interests
 
-* Security & privacy
+* Artificial Intelligence
 * Blockchain
 * Future Network
 * Cryptography
@@ -42,3 +44,17 @@ Now I'm working in China Telecom Research Instittute which is located in Beijing
 [3] ITU-T Q16/SG13 Recommendation: Y.Trust-AI "Overview of trust provisioning for networks and services using AI technologies" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19395), 03/2024, ongoing
 
 [4] ITU-T Q20/SG13 Recommendation: Y.KNO "Requirements and framework for knowledge-based network optimization in IMT-2020 networks and beyond" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19360), 03/2024, ongoing
+
+[5] ITU-T Q4/SG20 Recommendation: Y.AIoT-dpsm "Requirements and framework of data processing for smart manufacturing with Artificial Intelligence of Things" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19627), 07/2024, ongoing
+
+[6] ITU-T Q4/SG20 Recommendation: Y.AIoT-FRA "Functional requirements and architecture for Artificial Intelligence of Things" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19625), 07/2024, ongoing
+
+[7] ITU-T Q4/SG20 Recommendation: Y.AIoT-fr "Framework of Artificial Intelligence of Things" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19624), 07/2024, ongoing
+
+[8] ITU-T Q4/SG20 Recommendation: Y.KCI-IM "Requirements of knowledge construction and implementation for IoT management" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19631), 07/2024, ongoing
+
+[9] ITU-T Q3/SG20 Recommendation: Y.IoT-SAS "Functional architecture of IoT-enabled smart accessibility service in smart communities" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19617), 07/2024, ongoing
+
+[10] ITU-T Q2/SG20 Supplement: Y.Sup-SCC-AI "Suppplement to ITU-T Y.4223 - Use cases of smart cities and communities supported by AI" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19604), 07/2024, ongoing
+
+[11] ITU-T Q9/SG5 Recommendation: L.ClimAI "Guidelines for Assessing the Impact of Artificial Intelligence on Environment" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19564), 07/2024, ongoing
