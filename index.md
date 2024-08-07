@@ -37,6 +37,8 @@ Now I'm working in China Telecom Research Instittute which is located in Beijing
 
 ### Standard
 
+#### Ihternational Telecommunication Union - Telecommunication Standardization Sector (ITU-T)
+
 [1] ITU-T Q2/SG13 Technical Report: TR.SIC-DLT "Scenarios and considerations of semantic information communication of NGNe based on DLT" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19158), 11/2023, ongoing
 
 [2] ITU-T Q16/SG13 Technical Report: TR.CDI-TNS "Considerations and potential requirements of cross domain interoperability for trustworthy networking and services" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19388), 03/2024, ongoing
@@ -58,3 +60,8 @@ Now I'm working in China Telecom Research Instittute which is located in Beijing
 [10] ITU-T Q2/SG20 Supplement: Y.Sup-SCC-AI "Suppplement to ITU-T Y.4223 - Use cases of smart cities and communities supported by AI" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19604), 07/2024, ongoing
 
 [11] ITU-T Q9/SG5 Recommendation: L.ClimAI "Guidelines for Assessing the Impact of Artificial Intelligence on Environment" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19564), 07/2024, ongoing
+
+
+#### IEEE Standard Association (IEEE SA)
+
+[1] IEEE SA CTS/MSC P3438 "Standard for Network Infrastructure for Web3.0" [Link](https://standards.ieee.org/ieee/3438/11602/), 03/2024, ongoing, Working Group Chair
