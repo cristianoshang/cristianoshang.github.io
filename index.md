@@ -34,8 +34,18 @@ Now I'm working in China Telecom Research Instittute which is located in Beijing
 
 [2] 胡柏吉，李元诚，房方，**商兴宇**．基于轻量级区块链的隐私保护传染病监测数据聚合[J]．中国科学: 信息科学，2021，51 （11）: 1885–1899
 
+[3] R. Huang, Y. Li, P. Yin, **X. Shang** and Y. Wang, "Transferable Attention-Distracting Adversarial Attack on Data-Driven Models for Power Systems," in IEEE Transactions on Information Forensics and Security, vol. 20, pp. 4985-4998, 2025, doi: 10.1109/TIFS.2025.3565993 .
+
+[4] **Shang, X.**, Dai, M., Liu, X. (2024). Blockchain-Enhanced Device to Device Network Identity Verification Based on Zero Knowledge Proof. In: Jin, H., Pan, Y., Lu, J. (eds) Data Science and Information Security. IAIC 2023. Communications in Computer and Information Science, vol 2059. Springer, Singapore. https://doi.org/10.1007/978-981-97-1280-9_10
+
 
 ### Standard
+
+#### - Position in SDO
+
+[1] ITU-T SG20 Q2(Requirements, capabilities and architectural frameworks of Internet of Things (IoT) and smart sustainable cities and communities (SSC&C) across verticals) [**Assosiate Rapporteur**](https://www.itu.int/net4/ITU-T/lists/loqr.aspx?Group=20&Period=18)
+
+[2] ITU-T Focus Group on AI Native Network WG3(Architecture) [**Co-chair**](https://extranet.itu.int/sites/itu-t/focusgroups/ainn/SitePages/Home.aspx)
 
 #### - International Telecommunication Union - Telecommunication Standardization Sector (ITU-T)
 
@@ -47,7 +57,7 @@ Now I'm working in China Telecom Research Instittute which is located in Beijing
 
 [4] ITU-T Q20/SG13 Recommendation: Y.KNO "Requirements and framework for knowledge-based network optimization in IMT-2020 networks and beyond" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19360), 03/2024, ongoing
 
-[5] ITU-T Q4/SG20 Recommendation: Y.AIoT-dpsm "Requirements and framework of data processing for smart manufacturing with Artificial Intelligence of Things" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19627), 07/2024, ongoing
+[5] ITU-T Q4/SG20 Recommendation: Y.AIoT-dpsm (Y.4613) "Requirements and framework of data processing for smart manufacturing with Artificial Intelligence of Things" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19627), 07/2024, Approved
 
 [6] ITU-T Q4/SG20 Recommendation: Y.AIoT-FRA "Functional requirements and architecture for Artificial Intelligence of Things" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19625), 07/2024, ongoing
 
