@@ -73,8 +73,29 @@ Now I'm working in China Telecom Research Instittute which is located in Beijing
 
 [12] ITU-T Q5/SG21 Recommendation: F.RF-AIAC-FM - Requirements and Framework for AI Agent Collaboration for Foundation Models [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=22156), 01/2025, ongoing
 
-[13] ITU-T Q5/SG21 Recommendation: F.RF-AIAC-FM - Requirements and Framework for AI Agent Collaboration for Foundation Models [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=22156), 01/2025, ongoing
+[13] ITU-T Q2/SG20 Recommendation: Y.SDTCS - Requirements and capabilities of shared-device task coordination system in smart industrial park [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=23499), 09/2025, ongoing
 
+[14] ITU-T Q2/SG20 Recommendation: Y.SERS-fra - Requirements and framework of smart emergency rescue service based on IoT devices [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=23504), 09/2025, ongoing
+
+[15] ITU-T Q8/SG20 Recommendation: Y.IoT-IHS - Requirements and framework of Internet of things (IoT)-based intelligent healthcare system [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=23519), 09/2025, ongoing
+
+[16] ITU-T Q4/SG20 Recommendation: Y.Agentic-AIoT-req - Functional requirements for Agentic Artificial Intelligence of Things [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=23559), 09/2025, ongoing
+
+[17] ITU-T Q1/SG20 Revison: Y.4201-Rev - High-level requirements and reference framework of smart city platforms [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=22088), 01/2025, ongoing
+
+[18] ITU-T Q2/SG20 Recommendation: Y.SWIPS - Requirements and capability framework of IoT-based urban solid waste intelligent processing systems [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=23969), 05/2026, ongoing
+
+[19] ITU-T Q2/SG20 Recommendation: Y.Ambient-IoT-fra - Framework of ambient power-enabled Internet of Things platform [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=23978), 05/2026, ongoing
+
+[20] ITU-T Q5/SG20 Recommendation: Y.Satellite-reqts - Requirements and capability framework of Satellite Internet of Things [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=23991), 05/2026, ongoing
+
+[21] ITU-T Q5/SG20 Recommendation: Y.Satellite-ERS - Requirements and framework of satellite IoT based emergency response system [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=23992), 05/2026, ongoing
+
+[22] ITU-T Q2/SG20 Recommendation: Y.dt-IIoTm-SM - Requirements and capability framework of digital twin for industrial IoT system management service for smart manufacturing [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=23970), 05/2026, ongoing
+
+[23] ITU-T Q2/SG20 Recommendation: Y.IoT-QKDN - Requirements and framework of enhanced IoT for QKDN capability support [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=23975), 05/2026, ongoing
+
+[24] ITU-T Q16/SG13 Recommendation: Y.Trust-agen-eval - Trustworthiness evaluation for agentic AI of networks and services for future networks [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=24146), 05/2026, ongoing
 
 #### - IEEE Standard Association (IEEE SA)
 
