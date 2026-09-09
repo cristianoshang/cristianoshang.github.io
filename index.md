@@ -10,7 +10,7 @@ email:shangxy1@chinatelecom.cn
 
 ORCID: https://orcid.org/0000-0001-6603-0497  
 
-link to [X(Twitter)](https://x.com/shangxingyu1?s=21&t=YAls2cLIwpT--ou8_wYO2w) ;link to Linkedin;link to Github
+[X(Twitter)](https://x.com/shangxingyu1?s=21&t=YAls2cLIwpT--ou8_wYO2w) ; Linkedin; Github
 
 ## About me
 
@@ -53,23 +53,27 @@ Now I'm working in China Telecom Research Instittute which is located in Beijing
 
 [2] ITU-T Q16/SG13 Technical Report: TR.CDI-TNS "Considerations and potential requirements of cross domain interoperability for trustworthy networking and services" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19388), 03/2024, ongoing
 
-[3] ITU-T Q16/SG13 Recommendation: Y.Trust-AI "Overview of trust provisioning for networks and services using AI technologies" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19395), 03/2024, ongoing
+[3] ITU-T Q16/SG13 Recommendation: Y.3262 (ex Y.Trust-AI) - Overview of trust provisioning for networks and services using AI Technologies [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19395), 03/2024, Approved on 2026-08-13
 
-[4] ITU-T Q20/SG13 Recommendation: Y.KNO "Requirements and framework for knowledge-based network optimization in IMT-2020 networks and beyond" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19360), 03/2024, ongoing
+[4] ITU-T Q2/SG20 Recommendation: Y.IoT-IPP "Requirements and framework of intent perception and processing in intelligent operations for IoT" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19360), 01/2025, ongoing
 
-[5] ITU-T Q4/SG20 Recommendation: Y.AIoT-dpsm (Y.4613) "Requirements and framework of data processing for smart manufacturing with Artificial Intelligence of Things" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19627), 07/2024, Approved
+[5] ITU-T Q4/SG20 Recommendation: Y.4613 (ex Y.AIoT-dpsm) - Functional requirements and capabilities of data processing for smart manufacturing with Artificial Intelligence of Things [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19627), 07/2024, Approved on 2025-11-13
 
-[6] ITU-T Q4/SG20 Recommendation: Y.AIoT-FRA "Functional requirements and architecture for Artificial Intelligence of Things" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19625), 07/2024, ongoing
+[6] ITU-T Q4/SG20 Recommendation: Y.4618 (ex Y.AIoT-FRA) - Artificial Intelligence of Things - Reference model and requirements [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19625), 07/2024, Approved on 2026-06-29
 
-[7] ITU-T Q4/SG20 Recommendation: Y.AIoT-fr "Framework of Artificial Intelligence of Things" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19624), 07/2024, ongoing
+[7] ITU-T Q4/SG20 Recommendation: Y.4612 (ex Y.AIoT-fr) - Framework of Artificial Intelligence of Things [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19624), 07/2024, Approved on 2025-11-13
 
 [8] ITU-T Q4/SG20 Recommendation: Y.KCI-IM "Requirements of knowledge construction and implementation for IoT management" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19631), 07/2024, ongoing
 
 [9] ITU-T Q3/SG20 Recommendation: Y.IoT-SAS "Functional architecture of IoT-enabled smart accessibility service in smart communities" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19617), 07/2024, ongoing
 
-[10] ITU-T Q2/SG20 Supplement: Y.Sup-SCC-AI "Suppplement to ITU-T Y.4223 - Use cases of smart cities and communities supported by AI" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19604), 07/2024, ongoing
+[10] ITU-T Q2/SG20 Supplement: Y.Suppl.103 (ex Y.Sup-SCC-AI) - Supplement to ITU-T Y.4223 - Use cases of smart cities and communities supported by AI [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19604), 07/2024, Agreed on 2026-05-21
 
-[11] ITU-T Q9/SG5 Recommendation: L.ClimAI "Guidelines for Assessing the Impact of Artificial Intelligence on Environment" [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19564), 07/2024, ongoing
+[11] ITU-T Q9/SG5 Recommendation: L.1801 (ex L.EnvAI) - Guidelines for Assessing the Environmental Impact of Artificial Intelligence systems [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19564), 07/2024, Approved on 2026-02-06 
+
+[12] ITU-T Q5/SG21 Recommendation: F.RF-AIAC-FM - Requirements and Framework for AI Agent Collaboration for Foundation Models [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=22156), 01/2025, ongoing
+
+[13] ITU-T Q5/SG21 Recommendation: F.RF-AIAC-FM - Requirements and Framework for AI Agent Collaboration for Foundation Models [Link](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=22156), 01/2025, ongoing
 
 
 #### - IEEE Standard Association (IEEE SA)
